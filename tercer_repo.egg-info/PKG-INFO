@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: tercer_repo
+Version: 0.1
+Summary: un paquete pip simple de saludo
+Home-page: https://github.com/R-ICastroG/tercer_repo
+Author: Ronald Castro
+Author-email: ronald@platzi.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
